@@ -1,4 +1,6 @@
-### wassup 👋
+### 👋
+
+software engineer intern at [**🔎 sourcegraph**](https://bobheadxi.dev/sourcegraph), mathematics at [**ubc**](https://ubc.ca/). previously software at [**👊 riot games**](https://bobheadxi.dev/riot-games/), [**🏡 sumus**](https://bobheadxi.dev/sumus/), [**🚢 rtrade**](https://bobheadxi.dev/rtrade-techologies/), and [**💊 bc genome sciences centre**](https://bobheadxi.dev/bcgsc/).
 
 <!--
 **bobheadxi/bobheadxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
