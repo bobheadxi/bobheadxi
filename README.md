@@ -1,6 +1,7 @@
 ### 👋 
 
-most recently a [software engineer intern at **🔎 sourcegraph**](https://bobheadxi.dev/experience/sourcegraph-intern).
+currently [software engineer at **🔎 sourcegraph**](https://bobheadxi.dev/experience/sourcegraph).
+
 previously wrote code at [**👊 riot games**](https://bobheadxi.dev/experience/riot-games), [**🏡 sumus**](https://bobheadxi.dev/experience/sumus), [**🚢 rtrade**](https://bobheadxi.dev/experience/rtrade-techologies), the [**💊 bc genome sciences centre**](https://bobheadxi.dev/bcgsc/), and [**🏔️ nwplus**](https://bobheadxi.dev/open-source/nwhacks2019).
 studied mathematics at [**🎓 ubc**](https://ubc.ca/), where i helped run [**🚀 ubc launch pad**](https://ubclaunchpad.com/), a club that gives students a collaborative and professional environment for building projects.
 
